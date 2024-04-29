@@ -5,7 +5,7 @@
 - Unlike cookies, session storage data is not sent to the server while making network request calls.
 - Session storage data has a larger capacity to hold.
 - Cookies can only store 4000bytes of data
-- Session storage can store atleast 5MB of data
+- Session storage can store atleast 5MB of data.
 
 # Local Storage
 - Same as Session Storage
