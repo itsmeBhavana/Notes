@@ -1,0 +1,14 @@
+# Redux
+- Redux is not mandatory
+- Small applications and mid sized applications do not need Redux.
+- Other library like Redux is Zustand which is very light weight.
+- Redux offers easy debugging.
+- Redux dev tools helps us to debug well.
+- Redux is a predictable State container for JS Apps
+- Redux offers 2 libraries
+  - React-Redux: bridge between React and Redux
+  - Redux Tool Kit: Newer way of writing Redux.
+    - This package is intended to be the standard way to write Redux logic.
+    - Earlier, we used to use Vanilla Redux.
+    - Redux toolkit is a little less complicated when compared to Vanilla Redux.
+    - Earlier, We needed a lot of packages to make Redux do anything useful. 
